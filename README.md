@@ -15,7 +15,7 @@ This project is a real-time facial recognition-based surveillance system built w
 1. **Clone the repository**:
    First, clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://github.com/ramesh-1211/Facial-Recognition-Surveillance-System.git
 Install the required dependencies: This project requires Python 3 and several libraries. You can install them using pip:
 
 pip install opencv-python face_recognition numpy smtplib
