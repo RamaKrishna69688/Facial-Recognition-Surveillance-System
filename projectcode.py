@@ -1,4 +1,3 @@
-# Import required libraries
 import cv2  # OpenCV library for image processing and video capturing
 import face_recognition  # Library to detect and recognize faces
 import os  # To interact with the file system
