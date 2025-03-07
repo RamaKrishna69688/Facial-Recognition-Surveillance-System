@@ -10,7 +10,7 @@ import time
 def load_authorized_images():
     authorized_images = []
     authorized_names = []
-    authorized_images_dir = 
+    authorized_images_dir = #Enter your image dataset address
     for person_name in os.listdir(authorized_images_dir):
         person_folder = os.path.join(authorized_images_dir, person_name)
         if os.path.isdir(person_folder):
